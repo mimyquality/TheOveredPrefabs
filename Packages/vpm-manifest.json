@@ -19,7 +19,7 @@
       "version": "3.4.10"
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.16.3-alpha.0"
+      "version": "1.16.2"
     },
     "jp.lilxyzw.liltoon": {
       "version": "2.3.2"
@@ -69,7 +69,7 @@
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.16.3-alpha.0",
+      "version": "1.16.2",
       "dependencies": {
         "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
       }
