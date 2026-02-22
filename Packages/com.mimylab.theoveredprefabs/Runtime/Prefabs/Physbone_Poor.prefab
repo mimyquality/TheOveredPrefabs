@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4289972315839956874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4227973318311718308}
+  m_Layer: 0
+  m_Name: Physbone_Poor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4227973318311718308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4289972315839956874}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5296241800832019380}
+  - {fileID: 5600880293963038289}
+  - {fileID: 91649306388218023}
+  - {fileID: 8613317099836730476}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1080582732955218489
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4227973318311718308}
+    m_Modifications:
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6822424672819434247, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_Name
+      value: Physbone_x8_02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d7643f5f792d69b46902b3843396c75b, type: 3}
+--- !u!4 &91649306388218023 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1080582732955218489}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4756021349820910799
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4227973318311718308}
+    m_Modifications:
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6822424672819434247, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_Name
+      value: Physbone_x8_01
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d7643f5f792d69b46902b3843396c75b, type: 3}
+--- !u!4 &5600880293963038289 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+    type: 3}
+  m_PrefabInstance: {fileID: 4756021349820910799}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5060529826238290218
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4227973318311718308}
+    m_Modifications:
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6822424672819434247, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_Name
+      value: Physbone_x8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d7643f5f792d69b46902b3843396c75b, type: 3}
+--- !u!4 &5296241800832019380 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5060529826238290218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8661051620857601778
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4227973318311718308}
+    m_Modifications:
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6822424672819434247, guid: d7643f5f792d69b46902b3843396c75b,
+        type: 3}
+      propertyPath: m_Name
+      value: Physbone_x8_03
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d7643f5f792d69b46902b3843396c75b, type: 3}
+--- !u!4 &8613317099836730476 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1133388456179348126, guid: d7643f5f792d69b46902b3843396c75b,
+    type: 3}
+  m_PrefabInstance: {fileID: 8661051620857601778}
+  m_PrefabAsset: {fileID: 0}
