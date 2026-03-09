@@ -1,7 +1,7 @@
 {
   "name": "com.mimylab.theoveredprefabs",
   "displayName": "The Overed Prefabs",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A set of prefabs designed to degrade specific performance for VRChat avatar load testing.",
   "unity": "2022.3",
   "author": {
