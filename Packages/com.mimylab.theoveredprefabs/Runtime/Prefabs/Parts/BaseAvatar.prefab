@@ -31,7 +31,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f81e8172c337a714894d6fdbd0900d8d,
         type: 3}
       propertyPath: m_Name
-      value: Base_Good
+      value: BaseAvatar
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f81e8172c337a714894d6fdbd0900d8d,
         type: 3}
@@ -68,16 +68,6 @@ PrefabInstance:
       propertyPath: m_AABB.m_Extent.z
       value: 1.2
       objectReference: {fileID: 0}
-    - target: {fileID: 1630794972795428178, guid: f81e8172c337a714894d6fdbd0900d8d,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 81b404ac6aad07044b3a90fe1ae63e21, type: 2}
-    - target: {fileID: 1630794972795428178, guid: f81e8172c337a714894d6fdbd0900d8d,
-        type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 885232a00fcf2d8408ef16596a203d24, type: 2}
     - target: {fileID: 1630794972795428178, guid: f81e8172c337a714894d6fdbd0900d8d,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.size

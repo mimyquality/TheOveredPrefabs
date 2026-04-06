@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.anatawa12.continuous-avatar-uploader": {
+      "version": "file:com.anatawa12.continuous-avatar-uploader",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.anatawa12.gists": {
+      "version": "file:com.anatawa12.gists",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.llealloo.audiolink": {
       "version": "file:com.llealloo.audiolink",
       "depth": 0,

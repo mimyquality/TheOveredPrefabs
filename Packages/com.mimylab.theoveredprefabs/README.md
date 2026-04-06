@@ -1,12 +1,14 @@
 # The Overed Prefabs
 
 VRChatのアバターの負荷検証用に、特定パフォーマンスを悪化させるためだけのプレハブ群です。  
-**Packages > The Overed Prefabs > Runtime Prefabs** に各種パフォーマンスランク組み合わせ用のプレハブが入っています。  
 
-参考:パフォーマンスランク一覧
-<https://creators.vrchat.com/avatars/avatar-performance-ranking-system/#pc-limits>
+**Packages > The Overed Prefabs > Runtime > Prefabs** に各種パフォーマンスランク組み合わせ用のプレハブが入っています。  
+**Packages > The Overed Prefabs > Runtime > Scenes** に各種プレハブを組み合わせた構築済みサンプルアバターが配置されたシーンが入っています。  
 
-## Base_Good
+参考:パフォーマンスランク一覧  
+<https://creators.vrchat.com/avatars/avatar-performance-ranking-system/#pc-limits>  
+
+## BaseAvatar
 
 VRCSDK のサンプルアバターから最低限でセットアップしてあるだけのアバターです。  
 
@@ -16,6 +18,9 @@ VRCSDK のサンプルアバターから最低限でセットアップしてあ�
 - Material Slots : 2
 - Animators : 1
 - Bones : 130
+
+パフォーマンスランク毎に見分けが付けられるよう派生させた **Avatar_Good**, **Avatar_Medium**, **Avatar_Poor**, **Avatar_VeryPoor**, **Avatar_LegendaryPoor**,  があります。  
+これらのテクスチャー素材は VRCSDK から引っ張ってきてるので、VRCSDK を更新する度に `Streaming mipmaps` に関するエラーが出ると思いますが、[Auto Fix] すれば通ります。  
 
 ## Physbone
 
