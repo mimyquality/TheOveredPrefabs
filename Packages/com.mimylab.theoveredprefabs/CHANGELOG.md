@@ -4,10 +4,11 @@
 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)のフォーマットと、
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html)の採番に則り更新されます。  
 
-## [0.2.0] - 2026/4/6
+## [0.2.0] - 2026/4/18
 
-各パフォーマンスランクが分かるようにしたアバターの Prefab Variant を追加、これに合わせて Prefabs フォルダー整理
-項目ごとにアバターセットアップ済みの Scene ファイルを追加
+各パフォーマンスランクが分かるようにしたアバターの Prefab Variant を追加、これに合わせて Prefabs フォルダー整理  
+項目ごとにアバターセットアップ済みの Scene ファイルを追加  
+(Skinned) Mesh Renderer 項目用の Prefab と Scene ファイルを追加  
 
 ## [0.1.0] - 2026/3/9
 
